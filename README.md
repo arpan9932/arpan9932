@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Bera</h1>
 <h3 align="center">I'm a fullstack developer and final year Computer Science Engineering student with a passion for crafting robust and innovative solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan9932&label=Profile%20views&color=0e75b6&style=flat" alt="arpan9932" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://arpan9932.github.io/Animated_portfolio/](https://arpan9932.github.io/Animated_portfolio/)
