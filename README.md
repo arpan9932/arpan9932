@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Web Development<br><br>👨‍💻 All of my projects are available at https://arpan9932.github.io/Animated_portfolio/<br><br>📫 reach me at  arpanbera7407@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/10jF3AnNO8vTPQoQTGl2I_QOFfDpJBbIe/view?usp=sharing</p>
+<p align="left">🌱 I’m currently learning Web Development<br><br>👨‍💻 All of my projects are available at https://arpan9932.github.io/Portfolio_ArpanBera/<br><br>📫 reach me at  arpanbera7407@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1auOpoxrU_X0AzRczKUODOBxnC-UUoPoj/view?usp=drive_link</p>
 
 ###
 
