@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a fullstack developer and final year Computer Science Engineering student with a passion for crafting robust and innovative solutions.</p>
+<p align="left">I'm a fullstack developer and passion for crafting robust and innovative solutions.</p>
 
 ###
 
